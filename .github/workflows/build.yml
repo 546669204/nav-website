@@ -32,7 +32,7 @@ jobs:
       - name: Run build
         uses: borales/actions-yarn@v4
         with:
-          cmd: build # will run `yarn install` command
+          cmd: build
 
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
