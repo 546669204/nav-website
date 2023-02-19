@@ -2,7 +2,7 @@ import React from "react"
 
 export default function(){
     React.useEffect(()=>{
-        window.location = "/docs"
+        window.location = "/nav-website/docs"
     },[])
     return <div></div>
 }

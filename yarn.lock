@@ -7747,10 +7747,10 @@ vfile@^4.0.0:
     unist-util-stringify-position "^2.0.0"
     vfile-message "^2.0.0"
 
-vite-docusaurus@^1.0.10:
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/vite-docusaurus/-/vite-docusaurus-1.0.10.tgz#b7373110260bfa04bccf01255a0681ffffc0d5ce"
-  integrity sha512-X2Cn6eZ9goTv9DqEn3wyVUszH95jnR4hgP3+IVPPN670oRj54V8rliP7/g/bqFKdf9t6oiakqD0PYhh8/w1fng==
+vite-docusaurus@^1.0.12:
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/vite-docusaurus/-/vite-docusaurus-1.0.12.tgz#a51c7b9dd351c9a004de644f75d2ce88869bb20d"
+  integrity sha512-kM9LTNhREe4P9Oop2LueQ/GR1odCAsN7yG9LCs0LiuvLfNdO0wfDVIq1XrFb5CMdYFGBTjaGCBrrDVFvCNSA4g==
   dependencies:
     "@mdx-js/mdx" "^1"
     "@mdx-js/react" "^1"
