@@ -29,7 +29,16 @@ https://replicate.com/tencentarc/gfpgan
 
 ## AI Chat
 
+### prompt
+
+https://openprompt.co/
+
+https://prompthero.com/
+
 ### 图片
+
+https://arthub.ai/
+
 皮卡智能抠图
 https://www.picup.shop/
 
