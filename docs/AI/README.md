@@ -41,6 +41,9 @@ https://cleanup.pictures/
 快速抠图
 https://photokit.com/
 
+图片库
+https://stockimg.ai
+
 ### 写作 
 
 写作助手包含周报简历方案演讲稿
@@ -57,6 +60,11 @@ https://easydl.zzh.coderai.cn/demo-3
 
 伪原创
 https://wyc.5118.com/
+
+助手
+https://meetcody.ai
+写作
+https://writesonic.com
 
 ### 语音
 自动生成歌词
@@ -87,3 +95,15 @@ https://excelformulabot.com/
 
 #### 律师
 https://donotpay.com/
+
+
+
+## 会议纪要
+https://tldv.io
+
+## 简历
+https://flowcv.com
+
+
+## 配色
+https://aicolors.co/
