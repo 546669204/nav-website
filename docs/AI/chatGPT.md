@@ -8,6 +8,9 @@
  * https://chat.51buygpt.com/
  * https://fastgpt.app/
  * http://43.154.144.239:3002/#/chat/80
+ * https://freegpt.cc/
+ * https://chatgpt.ddiu.io
+ * https://chat.binjie.site:7777
 
 ## 免翻接口
 
