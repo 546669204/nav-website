@@ -1,1 +1,0 @@
-import{R as r,r as n,b as s}from"./index-61a9391c.js";const o=r.createContext(null);function a({children:e,version:t}){return r.createElement(o.Provider,{value:t},e)}function i(){const e=n.useContext(o);if(e===null)throw new s("DocsVersionProvider");return e}export{a as D,i as u};
