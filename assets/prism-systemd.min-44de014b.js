@@ -1,6 +1,0 @@
-import{g as u}from"./index-2ced4dec.js";function p(t,r){for(var e=0;e<r.length;e++){const n=r[e];if(typeof n!="string"&&!Array.isArray(n)){for(const s in n)if(s!=="default"&&!(s in t)){const a=Object.getOwnPropertyDescriptor(n,s);a&&Object.defineProperty(t,s,a.get?a:{enumerable:!0,get:()=>n[s]})}}}return Object.freeze(Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}))}var o={},i;function d(){return i||(i=1,function(t){var r={pattern:/^[;#].*/m,greedy:!0},e=`"(?:[^\r
-"\\\\]|\\\\(?:[^\r]|\r
-?))*"(?!\\S)`;t.languages.systemd={comment:r,section:{pattern:/^\[[^\n\r\[\]]*\](?=[ \t]*$)/m,greedy:!0,inside:{punctuation:/^\[|\]$/,"section-name":{pattern:/[\s\S]+/,alias:"selector"}}},key:{pattern:/^[^\s=]+(?=[ \t]*=)/m,greedy:!0,alias:"attr-name"},value:{pattern:RegExp("(=[ 	]*(?!\\s))(?:"+e+`|(?=[^"\r
-]))(?:[^\\s\\\\]|[ 	]+(?:(?![ 	"])|`+e+`)|\\\\[\r
-]+(?:[#;].*[\r
-]+)*(?![#;]))*`),lookbehind:!0,greedy:!0,alias:"attr-value",inside:{comment:r,quoted:{pattern:RegExp("(^|\\s)"+e),lookbehind:!0,greedy:!0},punctuation:/\\$/m,boolean:{pattern:/^(?:false|no|off|on|true|yes)$/,greedy:!0}}},punctuation:/=/}}(Prism)),o}var m=d();const c=u(m),l=p({__proto__:null,default:c},[m]);export{l as p};
