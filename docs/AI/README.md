@@ -116,3 +116,11 @@ https://flowcv.com
 
 ## 配色
 https://aicolors.co/
+
+
+
+## 导航 
+
+https://www.vondy.com/
+ai 导航站
+https://www.futurepedia.io/
